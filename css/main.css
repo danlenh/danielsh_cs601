@@ -1,0 +1,226 @@
+nav {
+    font-family: Impact;
+    font-size: medium;
+    text-align: center;
+    background-color: rgb(26, 29, 48);
+    border-radius: 10px;
+    padding: 20px;
+}
+
+a:link, a:visited {
+    color: darkgoldenrod;
+}
+
+
+a:hover {
+    color:burlywood;
+   
+}
+
+body {
+    background-color: aliceblue;
+    background-image: url(./background1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+title {
+    font-family: Impact;
+    color: dimgrey;
+}
+
+
+h1, h2 {
+    font-family: Arial;
+    color: dimgrey;
+    text-align: center;
+   
+   
+}
+
+h3, h4 {
+    font-family: Arial;
+    color: dimgray;
+    text-align: center;
+}
+
+p {
+    font-family: Helvetica;
+    text-align: center;
+}
+
+article {
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+section {
+    background-color: rgb(249, 251, 239);
+    border-radius: 10px;
+    padding: 20px;
+    font-family: arial;
+    align-items: center;
+    text-align: center;
+    
+}
+
+.workhist {
+    text-align: left;
+}
+
+.education {
+    margin-right: 100px;
+    float: right;
+}
+
+figcaption {
+    font-family: arial;
+    font-size: small;
+    color: dimgray;
+}
+
+footer {
+    color: black;
+    font-family: "times new roman";
+    font-size: xx-small;
+}
+
+table {
+    color: gray;
+    font-family: arial;
+    text-align: center;
+    
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.musicreview {
+    text-align: center;
+}
+
+.upvote {
+    background-color: #0c8d10;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.downvote {
+    background-color: #e48cd6;
+    border: none;
+    color: brown;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: not-allowed;
+}
+
+.reset {
+    background-color: bisque;
+    border: none;
+    color: grey;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 1px;
+    cursor: pointer;
+}
+
+.answer {
+    text-align: center;
+    color: darkblue;
+    font-size: medium;
+    font-family: sans-serif;
+}
+
+button {
+    text-align: center;
+}
+
+.workartical {
+    text-align: center;
+}
+
+.answerbutton {
+    background-color: #0c358d;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.travel {
+    text-align: center;
+    font-family: Arial;
+    font-size: larger;
+    font-weight: bold;
+    color: #0c358d;
+    
+}
+
+.traveledit {
+    background-color: #668d0c;
+    border: none;
+    color: white;
+    padding: 4px 4px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.traveldelete {
+    background-color: #df6b1e;
+    border: none;
+    color: white;
+    padding: 4px 4px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.travelupdate {
+    background-color: #df6b1e;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.form {
+  
+    text-align: center;
+    margin: 35px 0 20px 0 !important;
+  
+}
